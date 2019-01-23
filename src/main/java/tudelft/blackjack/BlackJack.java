@@ -1,7 +1,7 @@
 package tudelft.blackjack;
 
 public class BlackJack {
-
+    int asd = 0;
     public int play(int left, int right) {
         int ln = left;
         int rn = right;
