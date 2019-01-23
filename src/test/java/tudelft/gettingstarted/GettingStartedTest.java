@@ -25,4 +25,6 @@ public class GettingStartedTest {
         Assertions.assertEquals(-15,result);
     }
 
+    int a=0;
+
 }
